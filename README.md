@@ -11,6 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakihanif23)](https://github.com/jakihanif23/github-readme-stats)
+
 <figure><embed src="https://wakatime.com/share/@jakihanif/43c5af78-a69f-4ced-8cfc-b0822aa9be8f.svg"></embed></figure>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jakihanif23&rank=-A,-A)](https://github.com/jakihanif23)
