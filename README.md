@@ -2,11 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           9 hrs 30 mins   █████████████▒░░░░░░░░░░░   53.90 %
-PHP              5 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.28 %
-Blade Template   59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-JavaScript       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Dart             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+From: 31 January 2023 - To: 18 August 2024
+
+Total Time: 706 hrs 33 mins
+
+PHP                239 hrs 49 mins >>>>>>>>-----------------   33.42 %
+Vue.js             187 hrs 38 mins >>>>>>>------------------   26.15 %
+Twig               67 hrs 49 mins  >>-----------------------   09.45 %
+Dart               54 hrs 55 mins  >>-----------------------   07.65 %
+JavaScript         50 hrs 55 mins  >>-----------------------   07.10 %
 ```
 
 <!--END_SECTION:waka-->
