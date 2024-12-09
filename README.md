@@ -29,7 +29,11 @@ Dart               56 hrs 27 mins  >>-----------------------   06.08 %
 <figure><embed src="https://wakatime.com/share/@jakihanif/43c5af78-a69f-4ced-8cfc-b0822aa9be8f.svg"></embed></figure>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jakihanif23&rank=-A,-A)](https://github.com/jakihanif23)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 <h2>Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
