@@ -29,11 +29,18 @@ Dart               56 hrs 27 mins  >>-----------------------   06.08 %
 <figure><embed src="https://wakatime.com/share/@jakihanif/43c5af78-a69f-4ced-8cfc-b0822aa9be8f.svg"></embed></figure>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jakihanif23&rank=-A,-A)](https://github.com/jakihanif23)
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jakihanif23/jakihanif23/output/github-contribution-grid-snake-dark.svg?">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jakihanif23/jakihanif23/output/github-contribution-grid-snake-dark.svg?">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jakihanif23/jakihanif23/output/github-contribution-grid-snake.svg?">
+</picture>1-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jakihanif23/jakihanif23/blob/output/github-contribution-grid-snake-dark.svg?">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jakihanif23/jakihanif23/blob/output/github-contribution-grid-snake-dark.svg?">
+  <img alt="github contribution grid snake animation" src="https://github.com/jakihanif23/jakihanif23/blob/output/github-contribution-grid-snake.svg?">
 </picture>
+
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakihanif23&show_icons=true&locale=en&layout=compact" alt="jakihanif23" /></p>
 </div>
