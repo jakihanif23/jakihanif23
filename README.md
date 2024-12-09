@@ -34,6 +34,9 @@ Dart               56 hrs 27 mins  >>-----------------------   06.08 %
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jakihanif23/jakihanif23/output/github-contribution-grid-snake-dark.svg?">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jakihanif23/jakihanif23/output/github-contribution-grid-snake.svg?">
 </picture>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakihanif23&show_icons=true&locale=en&layout=compact" alt="jakihanif23" /></p>
+</div>
 <h2>Frameworks</h2>
 <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div align="center">
