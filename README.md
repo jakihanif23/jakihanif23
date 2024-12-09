@@ -11,6 +11,7 @@ PHP                266 hrs 16 mins >>>>>>>------------------   28.67 %
 Twig               67 hrs 50 mins  >>-----------------------   07.30 %
 JavaScript         62 hrs 5 mins   >>-----------------------   06.68 %
 Dart               56 hrs 27 mins  >>-----------------------   06.08 %
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=dark)
 ```
 
 <!--END_SECTION:waka-->
