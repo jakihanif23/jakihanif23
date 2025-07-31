@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2023 - To: 29 July 2025
+From: 31 January 2023 - To: 30 July 2025
 
-Total Time: 1,063 hrs 3 mins
+Total Time: 1,064 hrs 10 mins
 
-Vue.js             403 hrs 20 mins >>>>>>>>>----------------   37.50 %
-PHP                309 hrs 33 mins >>>>>>>------------------   28.78 %
-JavaScript         75 hrs 34 mins  >>-----------------------   07.03 %
-Twig               67 hrs 50 mins  >>-----------------------   06.31 %
-Dart               59 hrs 44 mins  >------------------------   05.56 %
+Vue.js             403 hrs 33 mins >>>>>>>>>----------------   37.47 %
+PHP                309 hrs 33 mins >>>>>>>------------------   28.74 %
+JavaScript         75 hrs 42 mins  >>-----------------------   07.03 %
+Twig               67 hrs 50 mins  >>-----------------------   06.30 %
+Dart               59 hrs 44 mins  >------------------------   05.55 %
 ```
 
 <!--END_SECTION:waka-->
